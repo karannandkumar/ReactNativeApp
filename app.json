@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "KaranNk",
+    "slug": "KaranNk",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.KaranNk.KaranNk"
+    },
+    "android": {
+      "package": "com.KaranNk.KaranNk"
+    }
+   
+  }
+}
